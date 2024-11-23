@@ -5,7 +5,7 @@
 
 * Klimenko Maxim Serhiyevich
 
-[[./20241019_183028.jpg]]
+[[./photo_2024-11-23_04-51-33.jpg]]
 
 ** Contacts
 
@@ -94,6 +94,7 @@ My own projects:
 | IaC                 | https://github.com/asciiscry3r/myinfrastructure         |
 | Simple Web          | https://github.com/asciiscry3r/mksscryertower.quest     |
 | Extended Monitoring | https://github.com/asciiscry3r/sensors_exporter         |
+| Simple Web Docker   | https://github.com/asciiscry3r/demo_python_docker_image |
 
 | Radio/Electronics | GitHub                                          |
 |-------------------+-------------------------------------------------|
